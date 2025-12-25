@@ -32,44 +32,47 @@ The application allows users to efficiently manage tasks with features like add,
 
 task-dashboard/
 ├── public/
-│ ├── index.html 
+│ ├── index.html
 │ ├── favicon.ico
 │ ├── manifest.json
 │ └── robots.txt
 │
 ├── src/
 │ ├── app/
-│ │ └── store.js 
+│ │ └── store.js
 │ │
 │ ├── components/
-│ │ ├── TaskForm.jsx 
-│ │ ├── TaskList.jsx 
-│ │ ├── TaskItem.jsx 
-│ │ ├── FilterBar.jsx 
-│ │ ├── SearchBar.jsx 
-│ │ └── ThemeToggle.jsx 
+│ │ ├── TaskForm.jsx
+│ │ ├── TaskList.jsx
+│ │ ├── TaskItem.jsx
+│ │ ├── FilterBar.jsx
+│ │ ├── SearchBar.jsx
+│ │ └── ThemeToggle.jsx
 │ │
 │ ├── features/
 │ │ ├── tasks/
-│ │ │ ├── tasksSlice.js 
-│ │ │ └── tasksAPI.js 
+│ │ │ ├── tasksSlice.js
+│ │ │ └── tasksAPI.js
 │ │ └── theme/
-│ │ └── themeSlice.js 
+│ │ └── themeSlice.js
 │ │
 │ ├── mock/
-│ │ └── tasksData.js 
+│ │ └── tasksData.js
 │ │
 │ ├── pages/
-│ │ └── Dashboard.jsx 
-│ │── App.css
+│ │ └── Dashboard.jsx
+│ │
 │ ├── App.js
-│ ├── index.js 
-│ └── index.css 
+│ ├── index.js
+│ └── index.css
 │
-├── tailwind.config.js 
-├── postcss.config.js 
+├── tailwind.config.js
+├── postcss.config.js
 ├── package.json
 └── README.md
+
+
+
 
 
 

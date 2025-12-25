@@ -73,9 +73,9 @@ task-dashboard/
 └── README.md
 
 
-## ▶️ Setup & Run Instructions
+▶️ Setup & Run Instructions
 
-### 1️⃣ Clone the repository
+1️⃣ Clone the repository
 ```bash
 git clone https://github.com/himansu2198/Task-Management-Dashboard.git
 cd Task-Management-Dashboard

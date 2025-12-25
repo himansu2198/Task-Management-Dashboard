@@ -30,50 +30,48 @@ The application allows users to efficiently manage tasks with features like add,
 
 ## 📂 Folder Structure
 
+```text
 task-dashboard/
 ├── public/
-│ ├── index.html
-│ ├── favicon.ico
-│ ├── manifest.json
-│ └── robots.txt
+│   ├── index.html
+│   ├── favicon.ico
+│   ├── manifest.json
+│   └── robots.txt
 │
 ├── src/
-│ ├── app/
-│ │ └── store.js
-│ │
-│ ├── components/
-│ │ ├── TaskForm.jsx
-│ │ ├── TaskList.jsx
-│ │ ├── TaskItem.jsx
-│ │ ├── FilterBar.jsx
-│ │ ├── SearchBar.jsx
-│ │ └── ThemeToggle.jsx
-│ │
-│ ├── features/
-│ │ ├── tasks/
-│ │ │ ├── tasksSlice.js
-│ │ │ └── tasksAPI.js
-│ │ └── theme/
-│ │ └── themeSlice.js
-│ │
-│ ├── mock/
-│ │ └── tasksData.js
-│ │
-│ ├── pages/
-│ │ └── Dashboard.jsx
-│ │
-│ ├── App.js
-│ ├── index.js
-│ └── index.css
+│   ├── app/
+│   │   └── store.js
+│   │
+│   ├── components/
+│   │   ├── TaskForm.jsx
+│   │   ├── TaskList.jsx
+│   │   ├── TaskItem.jsx
+│   │   ├── FilterBar.jsx
+│   │   ├── SearchBar.jsx
+│   │   └── ThemeToggle.jsx
+│   │
+│   ├── features/
+│   │   ├── tasks/
+│   │   │   ├── tasksSlice.js
+│   │   │   └── tasksAPI.js
+│   │   └── theme/
+│   │       └── themeSlice.js
+│   │
+│   ├── mock/
+│   │   └── tasksData.js
+│   │
+│   ├── pages/
+│   │   └── Dashboard.jsx
+│   │
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
 │
 ├── tailwind.config.js
 ├── postcss.config.js
 ├── package.json
 └── README.md
 
-
-
----
 
 ## ▶️ Setup & Run Instructions
 

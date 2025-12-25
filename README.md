@@ -73,9 +73,6 @@ task-dashboard/
 
 
 
-
-
-
 ---
 
 ## ▶️ Setup & Run Instructions
@@ -84,7 +81,6 @@ task-dashboard/
 ```bash
 git clone https://github.com/himansu2198/Task-Management-Dashboard.git
 cd Task-Management-Dashboard
-
 2️⃣ Install dependencies
 
 npm install
